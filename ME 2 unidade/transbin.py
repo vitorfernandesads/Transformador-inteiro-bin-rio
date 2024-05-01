@@ -1,3 +1,4 @@
+import sleep
 while True:
     print("Convertendo um número inteiro em binário.")
     sleep(1)
